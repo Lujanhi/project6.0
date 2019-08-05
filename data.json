@@ -11,11 +11,10 @@
             ],
             "live_link": "https://lujanhi.github.io/Project-1-/",
             "github_link": "https://github.com/Lujanhi/Project-1-",
-            "main_image_url": "/static/images/rsz_randomcodegenerator.png",
+            "main_image_url": "/static/images/project 1 pic main.png.png",
             "project_image_url": [
-                "/static/images/rsz_randomcodegenerator01.png",
-                "/static/images/rsz_randomcodegenerator02.png",
-                "/static/images/rsz_randomcodegenerator03.png"
+                "/static/images/project 1 pic 1.png.png",
+                "/static/images/project 1 pic 2.png.png"
             ]
         },
         {
@@ -30,11 +29,10 @@
             ],
             "live_link": "https://lujanhi.github.io/project-2/",
             "github_link": "https://github.com/Lujanhi/project-2",
-            "main_image_url": "/static/images/rsz_list-pagination-filtering.png",
+            "main_image_url": "/static/images/project 2 pic main.png",
             "project_image_url": [
-                "/static/images/rsz_list-pagination-filtering01.png",
-                "/static/images/rsz_list-pagination-filtering02.png",
-                "/static/images/rsz_list-pagination-filtering03.png"
+                "/static/images/project 2 pic 1.png.png",
+                "/static/images/project 2 pic 2.png.png"
             ]
         },
         {
@@ -49,11 +47,10 @@
             ],
             "live_link": "https://lujanhi.github.io/Project-3/",
             "github_link": "https://github.com/Lujanhi/Project-3",
-            "main_image_url": "/static/images/rsz_interactiveform.png",
+            "main_image_url": "/static/project 3 pic mian.png",
             "project_image_url": [
-                "/static/images/rsz_interactiveform01.png",
-                "/static/images/rsz_interactiveform02.png",
-                "/static/images/rsz_interactiveform03.png"
+                "/static/images/project 3 pic 1.png",
+                "/static/images/project 3 pic 2.png"
             ]
         },
         {
@@ -68,11 +65,10 @@
             ],
             "live_link": "https://lujanhi.github.io/Project-4/",
             "github_link": "https://github.com/Lujanhi/Project-4",
-            "main_image_url": "/static/images/rsz_oob-game-show-app.png",
+            "main_image_url": "/static/images/project 4 pic main.png",
             "project_image_url": [
-                "/static/images/rsz_oob-game-show-app01.png",
-                "/static/images/rsz_oob-game-show-app02.png",
-                "/static/images/rsz_oob-game-show-app03.png"
+                "/static/images/project 4 pic 1.png",
+                "/static/images/project 4 pic 2.png"
             ]
         },
         {
@@ -87,11 +83,10 @@
             ],
             "live_link": "https://lujanhi.github.io/project-5/",
             "github_link": "https://github.com/Lujanhi/project-5",
-            "main_image_url": "/static/images/rsz_public-api-requests.png",
+            "main_image_url": "/static/images/project 5 pic main.png",
             "project_image_url": [
-                "/static/images/rsz_public-api-requests01.png",
-                "/static/images/rsz_public-api-requests02.png",
-                "/static/images/rsz_public-api-requests03.png"
+                "/static/images/project 5 pic 1.png",
+                "/static/images/Project 5 pic 2.png"
             ]
         }
     ]
