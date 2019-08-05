@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/Lujanhi/project6.0#readme",
   "dependencies": {
+    "body": "^5.1.0",
     "express": "^4.17.1",
+    "parser": "^0.1.4",
     "pug": "^2.0.4"
   }
 }
