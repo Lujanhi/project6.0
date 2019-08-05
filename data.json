@@ -1,0 +1,99 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "A Random Quote Generator",
+            "description": "A program that displays a random quote.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "live_link": "https://github.com/Lujanhi/Project-1-",
+            "github_link": "https://github.com/Lujanhi/Project-1-",
+            "main_image_url": "/static/images/rsz_randomcodegenerator.png",
+            "project_image_url": [
+                "/static/images/rsz_randomcodegenerator01.png",
+                "/static/images/rsz_randomcodegenerator02.png",
+                "/static/images/rsz_randomcodegenerator03.png"
+            ]
+        },
+        {
+            "id": 1,
+            "project_name": "List Pagination and Filtering",
+            "description": "creating new pages or(paginations)",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "jQuery"
+            ],
+            "live_link": "https://github.com/Lujanhi/project-2",
+            "github_link": "https://github.com/Lujanhi/project-2",
+            "main_image_url": "/static/images/rsz_list-pagination-filtering.png",
+            "project_image_url": [
+                "/static/images/rsz_list-pagination-filtering01.png",
+                "/static/images/rsz_list-pagination-filtering02.png",
+                "/static/images/rsz_list-pagination-filtering03.png"
+            ]
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "creating a form that is engaging and interactive for the user",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "jQuery"
+            ],
+            "live_link": "https://github.com/Lujanhi/Project-3",
+            "github_link": "https://github.com/Lujanhi/Project-3",
+            "main_image_url": "/static/images/rsz_interactiveform.png",
+            "project_image_url": [
+                "/static/images/rsz_interactiveform01.png",
+                "/static/images/rsz_interactiveform02.png",
+                "/static/images/rsz_interactiveform03.png"
+            ]
+        },
+        {
+            "id": 3,
+            "project_name": "OOP Game Show App",
+            "description": "Create a word guessing game",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "jQuery"
+            ],
+            "live_link": "https://github.com/Lujanhi/Project-4",
+            "github_link": "https://github.com/Lujanhi/Project-4",
+            "main_image_url": "/static/images/rsz_oob-game-show-app.png",
+            "project_image_url": [
+                "/static/images/rsz_oob-game-show-app01.png",
+                "/static/images/rsz_oob-game-show-app02.png",
+                "/static/images/rsz_oob-game-show-app03.png"
+            ]
+        },
+        {
+            "id": 4,
+            "project_name": "Public API Requests",
+            "description": "create an employee directory by using a third-party API .",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "jQuery"
+            ],
+            "live_link": "https://github.com/Lujanhi/project-5",
+            "github_link": "https://github.com/Lujanhi/project-5",
+            "main_image_url": "/static/images/rsz_public-api-requests.png",
+            "project_image_url": [
+                "/static/images/rsz_public-api-requests01.png",
+                "/static/images/rsz_public-api-requests02.png",
+                "/static/images/rsz_public-api-requests03.png"
+            ]
+        }
+    ]
+}
+
