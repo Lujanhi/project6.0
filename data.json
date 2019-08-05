@@ -11,16 +11,16 @@
             ],
             "live_link": "https://lujanhi.github.io/Project-1-/",
             "github_link": "https://github.com/Lujanhi/Project-1-",
-            "main_image_url": "/static/images/project 1 pic main.png.png",
+            "main_image_url": "/static/images/project 1 pic main.png",
             "project_image_url": [
-                "/static/images/project 1 pic 1.png.png",
-                "/static/images/project 1 pic 2.png.png"
+                "/static/images/project 1 pic 1.png",
+                "/static/images/project 1 pic 2.png"
             ]
         },
         {
             "id": 1,
             "project_name": "List Pagination and Filtering",
-            "description": "creating new pages or(paginations)",
+            "description": "Creating new pages or(paginations)",
             "technologies": [
                 "HTML",
                 "CSS",
@@ -31,14 +31,14 @@
             "github_link": "https://github.com/Lujanhi/project-2",
             "main_image_url": "/static/images/project 2 pic main.png",
             "project_image_url": [
-                "/static/images/project 2 pic 1.png.png",
-                "/static/images/project 2 pic 2.png.png"
+                "/static/images/project 2 pic 1.png",
+                "/static/images/project 2 pic 2.png"
             ]
         },
         {
             "id": 2,
             "project_name": "Interactive Form",
-            "description": "creating a form that is engaging and interactive for the user",
+            "description": "Creating a form that is engaging and interactive for the user",
             "technologies": [
                 "HTML",
                 "CSS",
@@ -47,7 +47,7 @@
             ],
             "live_link": "https://lujanhi.github.io/Project-3/",
             "github_link": "https://github.com/Lujanhi/Project-3",
-            "main_image_url": "/static/project 3 pic mian.png",
+            "main_image_url": "/static/images/project 3 pic mian.png",
             "project_image_url": [
                 "/static/images/project 3 pic 1.png",
                 "/static/images/project 3 pic 2.png"
@@ -74,7 +74,7 @@
         {
             "id": 4,
             "project_name": "Public API Requests",
-            "description": "create an employee directory by using a third-party API .",
+            "description": "Create a employee directory by using a third-party API .",
             "technologies": [
                 "HTML",
                 "CSS",
@@ -91,4 +91,3 @@
         }
     ]
 }
-
