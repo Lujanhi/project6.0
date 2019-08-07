@@ -35,5 +35,21 @@ app.get('/project/:id', (request, response, ) => {
 });
 
 
+
+
+app.use((request, response, next) => {
+    const err = new Error("error");
+    err.status = 404;
+    next(err)
+    response.render('error')
+    console.log(err);
+});
+
+app.use((err, request, response, next) => {
+    response.locals.error = err
+    response.status(err.status)
+});
+
 const port = 3000;
 app.listen(port, () => console.log(`Example app listening on port ${port}!`))
+
